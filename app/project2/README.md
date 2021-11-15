@@ -1,14 +1,14 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Fri Nov 12 2021 14:15:46 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Mon Nov 15 2021 14:13:09 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori|
-|**App Generator Version**<br>1.3.6|
+|**App Generator Version**<br>1.4.1|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Floorplan Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A
-|**Module Name**<br>project1|
+|**Module Name**<br>project2|
 |**Application Title**<br>App Title|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_fiori_3|
@@ -17,7 +17,7 @@
 |**Add Eslint configuration**<br>False|
 |**Enable Telemetry**<br>True|
 
-## project1
+## project2
 
 A Fiori application.
 

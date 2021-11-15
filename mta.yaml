@@ -47,12 +47,12 @@ modules:
     build-result: resources
     requires:
     - artifacts:
-      - project1.zip
-      name: project1
+      - project2.zip
+      name: project2
       target-path: resources/
-- name: project1
+- name: project2
   type: html5
-  path: app/project1
+  path: app/project2
   build-parameters:
     build-result: dist
     builder: custom
@@ -64,7 +64,7 @@ resources:
 - name: projectX-db
   type: com.sap.xs.hdi-container
   parameters:
-    service: hana
+    service: hanatrial
     service-plan: hdi-shared
   properties:
     hdi-service-name: ${service-name}
